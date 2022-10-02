@@ -126,7 +126,7 @@ nav{
   flex-direction: column;
 }
 nav > a{
-  border:1px solid black;
+  border:1px solid white;
   padding:0.4rem 0.4rem;
   border-radius: 0.9rem;
   margin:1rem 0;
